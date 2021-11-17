@@ -1,0 +1,8 @@
+void main(){
+  bool v=true;
+  v=false;
+  print(v);
+}
+
+
+OUTPUT is False
